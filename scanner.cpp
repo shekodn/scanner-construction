@@ -29,7 +29,29 @@ int filtro (char c)
 	case 'a':
 	case 'b':
 	case 'c':
-	case 'd': return 10;
+	case 'd':
+	case 'e':
+	case 'f':
+	case 'g':
+	case 'h':
+	case 'i':
+	case 'j':
+	case 'k':
+	case 'l':
+	case 'm':
+	case 'n':
+	case 'o':
+	case 'p':
+	case 'q':
+	case 'r':
+	case 's':
+	case 't':
+	case 'u':
+	case 'v':
+	case 'w':
+	case 'x':
+	case 'y':
+	case 'z': return 10;
 	case '_': return 9;
 	case '0':
 	case '1':
