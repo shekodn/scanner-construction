@@ -19,7 +19,7 @@ int MT[7][11] = {{  1, 102, 105, 106,   4,   0,   4, 107, 108, 5 ,    5 },   // 
 				{  3, 200, 200, 200,   4, 200,   4, 200, 200, 100,  100 },   // edo 2 - primer decimal flotante
                 {  3, 101, 101, 101, 101, 101,   4, 101, 101, 100,  100 },   // edo 3 - decimales restantes flotante
 				{200, 200, 200, 200,   4, 200,   4, 200, 200, 200,  200 },   // edo 4 - edo de error
-				{  5, 200, 200, 200, 200, 109, 200, 200, 101,   5,    5 },   // edo 5 - letras, digitos, _
+				{  5, 200, 200, 200, 200, 109, 200, 200, 109,   5,    5 },   // edo 5 - letras, digitos, _
 				{  5, 200, 200, 200, 101, 200, 200, 107, 200,   5,    5 }};  // edo 6 - decimales restantes flotante
 
 int filtro (char c)
