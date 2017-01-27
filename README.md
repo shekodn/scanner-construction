@@ -3,9 +3,21 @@
 Modifiquen el programa del escáner visto en clase, de tal manera que sea capaz de reconocer comas (,) como separadores e identificadores de variables.
 
 Los identificadores de variables empiezan con una letra minúscula o un guion bajo, seguido por cero o más letras minúsculas, guiones bajos y/o dígitos.
-Ejemplos: 
+Ejemplos:
+
+###Sample Input:
 
 ``` hola, x, _, _y3, tasa_interes, a3_b45 ```
+
+###Sample Output:
+
+``` Variable hola
+    Variable x
+    Variable _
+    Variable _y3
+    Variable tasa_interes
+    Variable a3_b45
+```
 
 ###¿Cómo?
 
