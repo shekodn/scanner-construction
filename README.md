@@ -11,12 +11,12 @@ Ejemplos:
 
 ###Sample Output:
 
-``` Variable hola         ```
-``` Variable x            ```
-``` Variable _            ```
-``` Variable _y3          ```
-``` Variable tasa_interes ```
-``` Variable a3_b45       ```
+``` Variable hola         
+Variable x            
+Variable _            
+Variable _y3          
+Variable tasa_interes
+Variable a3_b45 ```
 
 ###¿Cómo?
 
