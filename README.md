@@ -16,8 +16,7 @@ Ejemplos:
     Variable _
     Variable _y3
     Variable tasa_interes
-    Variable a3_b45
-```
+    Variable a3_b45 ```
 
 ###¿Cómo?
 
