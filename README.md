@@ -11,12 +11,12 @@ Ejemplos:
 
 ###Sample Output:
 
-``` Variable hola         ``` *same paragraph*
-``` Variable x            ``` *same paragraph*
-``` Variable _            ``` *same paragraph*
-``` Variable _y3          ``` *same paragraph*
-``` Variable tasa_interes ``` *same paragraph*
-``` Variable a3_b45       ``` *same paragraph*
+``` Variable hola         ```
+``` Variable x            ```
+``` Variable _            ```
+``` Variable _y3          ```
+``` Variable tasa_interes ```
+``` Variable a3_b45       ```
 
 ###¿Cómo?
 
